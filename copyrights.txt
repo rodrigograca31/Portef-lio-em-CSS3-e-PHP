@@ -1,0 +1,17 @@
+/*
+ * Name: Rodrigo Graça
+ * Copyleft: Rodrigo Graça
+ * Author: Rodrigo Graça
+ * Date: 2012
+ * Description: Portefólio em CSS3
+*/
+
+// +----------------------------------------------------------------------------+
+// | Copyleft (C) 2011, http://rodrigograca.com                           	|
+// +----------------------------------------------------------------------------+
+// | Este produto é abrangido pela versão 3 da licença GPL.		 	|
+// | Se existir algum erro neste produto por favor contacte o programador  	|
+// | através do E-mail eu@rodrigograca.com                                      |
+// +----------------------------------------------------------------------------+
+// | Author: Rodrigo Graça                                                     	|
+// +----------------------------------------------------------------------------+
